@@ -77,7 +77,7 @@ Create a new folder named `datasets` inside the Google Drive directory to store 
   Sample one-hot encoded labels are visualized.
 
 - **Train-Test Split**:\
-  Split the data into 80% training and 20% testing.
+  Split the data into 70% training and 30% testing.
 
 ### 5. Build the CNN Model
 
