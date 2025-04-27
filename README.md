@@ -121,7 +121,8 @@ model = Sequential([
 
 Example visualization:
 
-![output](image.png)
+![image](https://github.com/user-attachments/assets/8b00e89f-1764-437d-9a91-7d18fe0dac88)
+
 
 
 ---
@@ -143,10 +144,11 @@ Example visualization:
 - **Visual Predictions**:\
   Helps in visually understanding where the model is predicting correctly and where it might confuse between angles.
 
-![acc](image-1.png)
-![loss](image-2.png)
-![confusion](image-3.png)
-![classification](image-4.png)
+![Screenshot 2025-04-27 213336](https://github.com/user-attachments/assets/505cb376-ab7f-4c7b-a55a-20e97247fac9)
+![Screenshot 2025-04-27 213240](https://github.com/user-attachments/assets/c0f4f4e3-eb01-4601-98df-7ede5e0e13f2)
+![image](https://github.com/user-attachments/assets/bf234ab6-5b96-43dc-8f47-ff6fe9c68573)
+![image](https://github.com/user-attachments/assets/519d73ad-2d43-4926-ba77-7fedfabf7cbb)
+
 
 ---
 
