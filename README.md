@@ -1,4 +1,4 @@
-# Line Angle Classification using CNN 
+# Line Angle Classification using CNN.
 
 ## Project Overview
 
